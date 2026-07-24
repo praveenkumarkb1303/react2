@@ -5,7 +5,7 @@ function PC() {
     <div style={{ textAlign: "center", marginTop: "30px" }}> 
       <h1>React Props Example</h1> 
  
-      <Child name="Mohammed" /> 
+      <Child name="Praveen Kumar" /> 
     </div> 
   ); 
 } 
