@@ -1,7 +1,8 @@
 { 
   "name": "react2", 
   "version": "0.1.0", 
-  "private": true,  "homepage": "https://mohammedhhussain786.github.io/react2", 
+  "private": true,
+  "homepage": "https://praveenkumarkb1303.github.io/react2",
   "dependencies": { 
     "@testing-library/dom": "^10.4.1", 
     "@testing-library/jest-dom": "^6.9.1", 
