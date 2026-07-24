@@ -1,11 +1,11 @@
 import React, { useState } from "react"; 
 import "./App.css"; 
  
-import PA from "./components/programA"; 
-import PB from "./components/programB"; 
-import PC from "./components/programC"; 
-import PD from "./components/programD"; 
-import PE from "./components/programE"; 
+import PA from "./components/ProgramA"; 
+import PB from "./components/ProgramB"; 
+import PC from "./components/ProgramC"; 
+import PD from "./components/ProgramD"; 
+import PE from "./components/ProgramE"; 
  
 function App() { 
   const [program, setProgram] = useState("A");
